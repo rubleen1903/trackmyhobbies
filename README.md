@@ -32,3 +32,7 @@ It may take a while to install the dependencies. Once you’re done, use the fol
 
 npm run dev # or yarn dev
 Now you should see the message in your command prompt confirming the application is ready, and it is running locally on [<https://localhost:5000>](<https://localhost:5000>) by default.
+
+How will the project look??
+
+![Image](https://user-images.githubusercontent.com/47170879/146442827-011c0501-a954-4615-a13d-7c01580c703f.jpeg)
